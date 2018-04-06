@@ -1,64 +1,64 @@
-* set root passwd:
-sudo passwd
+* 设置ROOT权限密码
+  sudo passwd
 * 粘贴板 增强功能
- 共享文件夹
-参考: https://www.linuxidc.com/Linux/2016-04/129851.htm
- 百度搜索默认
+  共享文件夹
+  参考: https://www.linuxidc.com/Linux/2016-04/129851.htm
+  百度搜索默认
 * 安装emacs25:
-sudo apt-add-repository -y ppa:adrozdoff/emacs
-sudo apt update
-sudo apt install emacs25
+  sudo apt-add-repository -y ppa:adrozdoff/emacs
+  sudo apt update
+  sudo apt install emacs25
 * 安装octave
-sudo apt-add-repository ppa:octave/stable
-sudo apt-get update
-sudo apt-get install octave
+  sudo apt-add-repository ppa:octave/stable
+  sudo apt-get update
+  sudo apt-get install octave
 * 搜狗输入法
-语言包 fcitx
-sudo dpkg -i sogoupinyin_2.1.0.00826_amd64.deb    deb 对应修改
-sudo apt-get install -f 
-设置为默认 切换用shift
+  语言包 fcitx
+  sudo dpkg -i sogoupinyin_2.1.0.00826_amd64.deb    deb 对应修改
+  sudo apt-get install -f 
+  设置为默认 切换用shift
 * vim8.0 and vim-gnome, and neovim
-sudo add-apt-repository ppa:jonathonf/vim
-sudo apt update
-sudo apt install vim
+  sudo add-apt-repository ppa:jonathonf/vim
+  sudo apt update
+  sudo apt install vim
 
 
-sudo add-apt-repository -y ppa:neovim-ppa/unstable
-sudo apt update
-sudo apt-get install -y neovim
+  sudo add-apt-repository -y ppa:neovim-ppa/unstable
+  sudo apt update
+  sudo apt-get install -y neovim
 
-sudo apt-get install vim-gnome
-sudo apt-get install vim-gui-common
-sudo aptitude install vim-full
+  sudo apt-get install vim-gnome
+  sudo apt-get install vim-gui-common
+  sudo aptitude install vim-full
 
-SpaceVim
-curl -sLf https://spacevim.org/install.sh | bash
+  SpaceVim
+  curl -sLf https://spacevim.org/install.sh | bash
 
 * python
-python3 默认
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python2 100
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 150
+  python3 默认
+  sudo update-alternatives --install /usr/bin/python python /usr/bin/python2 100
+  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 150
 
-matplotlib
-sudo apt-get install python3-matplotlib
+  matplotlib
+  sudo apt-get install python3-matplotlib
 
-pip3
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install python-pip
+  pip3
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt-get install python-pip
 
-pip install --upgrade pip
+  pip install --upgrade pip
 
-pygal
-pip install --user pygal
+  pygal
+  pip install --user pygal
 
-ipython3
-sudo apt-get install ipython3
+  ipython3
+  sudo apt-get install ipython3
 
 * java
-$ sudo add-apt-repository ppa:webupd8team/java
-$ sudo apt-get update
-$ sudo apt-get install oracle-java8-installer
+  sudo add-apt-repository ppa:webupd8team/java
+  sudo apt-get update
+  sudo apt-get install oracle-java8-installer
 
 * scheme
-sudo apt-get install mit-scheme
+  sudo apt-get install mit-scheme
