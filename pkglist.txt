@@ -1,6 +1,7 @@
 arc-gtk-theme
 aria2
 autoconf
+autojump
 automake
 baobab
 bash
