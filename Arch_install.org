@@ -2,114 +2,225 @@
 - [[#install][Install]]
 
 * Install
+
   1. Verify the boot mode:
+
      `ls /sys/firmware/efi/efivars'
+
      if not exist, BIOS; else, UEFI
 
+
+
   2. Update the system clock
+
      `timedatectl set-ntp true'
+
+
 
   3. Partition the disks
 
+
+
      swap `Linux swap' more than 512M
 
+
+
      if BIOS with GPT
+
      /mnt/boot `BIOS boot type' 256–512 MiB
+
      else if UEFI with GPT
+
      /mnt/boot/efi `EFI system type' 256–512 MiB
 
+
+
      /mnt `Linux' 20%
+
      /mnt/home 'Linux` 80%
 
+
+
   4. Format the partitions and Mount
+
      swap partition: `mkswap /dev/sdXn' `swapon /dev/sdXn'
+
      else: `mkfs.ext4 /dev/sdXi'
-     
+
+
+
      `mkdir /mnt/home'
+
      `mkdir /mnt/boot'
-     
+
+
+
      for UEFI
+
          `mkdir /mnt/boot/efi'
-     
+
+
+
      `mount /dev/sdaX /mnt'
+
      `mount /dev/sdaX /mnt/home'
+
      if BIOS:
+
          `mount /dev/sdaX /mnt/boot'
+
      else if UEFI:
+
          `mount /dev/sdaX /mnt/boot/efi'
 
 
+
+
+
   5. Select the mirrors
+
      `vi /etc/pacman.d/mirrorlist'
+
      add:
+
          ## China
+
          Server = http://mirror.lzu.edu.cn/archlinux/$repo/os/$arch
+
          Server = http://mirrors.aliyun.com/archlinux/$repo/os/$arch
+
          Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+
          Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
 
+
+
   6. Install the base packages
+
      `pacstrap /mnt base base-devel'
 
+
+
   7. Generate an fstab file
+
      `genfstab -U /mnt >> /mnt/etc/fstab'
 
+
+
   8. Change root into the new system
+
      `arch-chroot /mnt'
-     
-  *Now you can install any pkg you like, for example: vim.*
+
+
+
+  *now you can install any pkg you like, for example: vim*
+
   (we assume that you have installed vim now)
+
   *You can use my pacman.conf instead of the default one. It's path: /etc/pacman.conf*
 
+
+
   9. Set the time zone
+
      `ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime'
+
      `hwclock --systohc '
 
+
+
   10. Localization
+
       `vim /etc/locale.gen'
+
       add:
+
           en_US.UTF-8 UTF-8
+
           zh_CN.UTF-8 UTF-8
+
           zh_TW.UTF-8 UTF-8
+
+
 
       `locale-gen'
 
+
+
       `vim /etc/locale.conf'
+
       add:
+
           LANG=en_US.UTF-8
 
+
+
   11. Network configuration
+
       `vim /etc/hostname'
+
       (create a name for your computer, for example: myhostname)
+
       add:
+
            myhostname
 
+
+
       `vim /etc/hosts'
+
       add:
+
            127.0.0.1	localhost
+
            ::1		localhost
+
            127.0.1.1	myhostname.localdomain	myhostname
 
+
+
   12. Root password
+
       `passwd'
 
+
+
   13. Boot loader (we use GRUB here)
+
       if BIOS:
+
           `pacman -S grub'
+
           `grub-install --target=i386-pc --recheck /dev/sda'
-          `grub-mkconfig -o /boot/grub/grub.cfg'
-         
-      else if UEFI:
-          `pacman -S grub efibootmgr dosfstools os-prober mtools'
-          `grub-install --target=x86_64-efi  --bootloader-id=grub_uefi --recheck'
+
           `grub-mkconfig -o /boot/grub/grub.cfg'
 
+
+
+      else if UEFI:
+
+          `pacman -S grub efibootmgr dosfstools os-prober mtools'
+
+          `grub-install --target=x86_64-efi  --bootloader-id=grub_uefi --recheck'
+
+          `grub-mkconfig -o /boot/grub/grub.cfg'
+
+
+
   14. Install wifi tools:
+
       `pacman -S iw netctl dialog wpa_supplicant NetworkManager'
-      
+
+
+
   15. REBOOT
+
       `exit'
+
       `umount -R /mnt'
+
       `reboot'
-      
+
+
+
   *Install successfully! Finish :)*
