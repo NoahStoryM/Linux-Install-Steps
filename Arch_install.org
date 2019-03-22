@@ -57,8 +57,9 @@
   8. Change root into the new system
      `arch-chroot /mnt'
      
-  *now you can install any pkg you like, for example: vim*
+  *Now you can install any pkg you like, for example: vim.*
   (we assume that you have installed vim now)
+  *You can use my pacman.conf instead of the default one. It's path: /etc/pacman.conf*
 
   9. Set the time zone
      `ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime'
