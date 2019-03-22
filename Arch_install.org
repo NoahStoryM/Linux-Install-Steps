@@ -3,7 +3,7 @@
 
 * Install
 
-  1. Verify the boot mode:
+  1. Verify the boot mode
 
      `ls /sys/firmware/efi/efivars'
 
@@ -15,20 +15,15 @@
 
   3. Partition the disks
 
-
-
      swap `Linux swap' more than 512M
-
-
 
      if BIOS with GPT
 
-     /mnt/boot `BIOS boot type' 256–512 MiB
+         /mnt/boot `BIOS boot type' 256–512 MiB
 
      else if UEFI with GPT
 
-     /mnt/boot/efi `EFI system type' 256–512 MiB
-
+         /mnt/boot/efi `EFI system type' 256–512 MiB
 
 
      /mnt `Linux' 20%
@@ -41,29 +36,23 @@
 
      else: `mkfs.ext4 /dev/sdXi'
 
-
-
      `mkdir /mnt/home'
 
      `mkdir /mnt/boot'
-
-
 
      for UEFI
 
          `mkdir /mnt/boot/efi'
 
-
-
      `mount /dev/sdaX /mnt'
 
      `mount /dev/sdaX /mnt/home'
 
-     if BIOS:
+     if BIOS
 
          `mount /dev/sdaX /mnt/boot'
 
-     else if UEFI:
+     else if UEFI
 
          `mount /dev/sdaX /mnt/boot/efi'
 
@@ -119,11 +108,7 @@
 
           zh_TW.UTF-8 UTF-8
 
-
-
       `locale-gen'
-
-
 
       `vim /etc/locale.conf'
 
@@ -141,8 +126,6 @@
 
            myhostname
 
-
-
       `vim /etc/hosts'
 
       add:
@@ -159,7 +142,7 @@
 
   13. Boot loader (we use GRUB here)
 
-      if BIOS:
+      if BIOS
 
           `pacman -S grub'
 
@@ -167,9 +150,7 @@
 
           `grub-mkconfig -o /boot/grub/grub.cfg'
 
-
-
-      else if UEFI:
+      else if UEFI
 
           `pacman -S grub efibootmgr dosfstools os-prober mtools'
 
@@ -177,7 +158,7 @@
 
           `grub-mkconfig -o /boot/grub/grub.cfg'
 
-  14. Install wifi tools:
+  14. Install wifi tools
 
       `pacman -S iw netctl dialog wpa_supplicant NetworkManager'
 
