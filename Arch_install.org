@@ -9,7 +9,6 @@
 
      if not exist, BIOS; else, UEFI
 
-
   2. Update the system clock
 
      `timedatectl set-ntp true'
