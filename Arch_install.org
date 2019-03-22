@@ -13,8 +13,6 @@
 
      `timedatectl set-ntp true'
 
-
-
   3. Partition the disks
 
 
@@ -36,8 +34,6 @@
      /mnt `Linux' 20%
 
      /mnt/home 'Linux` 80%
-
-
 
   4. Format the partitions and Mount
 
@@ -71,10 +67,6 @@
 
          `mount /dev/sdaX /mnt/boot/efi'
 
-
-
-
-
   5. Select the mirrors
 
      `vi /etc/pacman.d/mirrorlist'
@@ -91,25 +83,17 @@
 
          Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
 
-
-
   6. Install the base packages
 
      `pacstrap /mnt base base-devel'
-
-
 
   7. Generate an fstab file
 
      `genfstab -U /mnt >> /mnt/etc/fstab'
 
-
-
   8. Change root into the new system
 
      `arch-chroot /mnt'
-
-
 
   *now you can install any pkg you like, for example: vim*
 
@@ -117,15 +101,11 @@
 
   *You can use my pacman.conf instead of the default one. It's path: /etc/pacman.conf*
 
-
-
   9. Set the time zone
 
      `ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime'
 
      `hwclock --systohc '
-
-
 
   10. Localization
 
@@ -151,8 +131,6 @@
 
           LANG=en_US.UTF-8
 
-
-
   11. Network configuration
 
       `vim /etc/hostname'
@@ -175,13 +153,9 @@
 
            127.0.1.1	myhostname.localdomain	myhostname
 
-
-
   12. Root password
 
       `passwd'
-
-
 
   13. Boot loader (we use GRUB here)
 
@@ -203,13 +177,9 @@
 
           `grub-mkconfig -o /boot/grub/grub.cfg'
 
-
-
   14. Install wifi tools:
 
       `pacman -S iw netctl dialog wpa_supplicant NetworkManager'
-
-
 
   15. REBOOT
 
@@ -218,7 +188,5 @@
       `umount -R /mnt'
 
       `reboot'
-
-
 
   *Install successfully! Finish :)*
