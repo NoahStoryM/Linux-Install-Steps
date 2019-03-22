@@ -7,6 +7,7 @@ baobab
 bash
 binutils
 bison
+bluez-utils
 bzip2
 calibre
 cheese
@@ -15,7 +16,6 @@ clisp
 cmake
 coreutils
 cryptsetup
-curl
 deepin-wine-tim
 device-mapper
 dhcpcd
@@ -125,6 +125,7 @@ man-db
 man-pages
 masterpdfeditor
 mdadm
+minecraft
 mlocate
 mousetweaks
 mutter
@@ -158,6 +159,7 @@ scrot
 sed
 shadow
 simple-scan
+steam
 sudo
 sushi
 sysfsutils
@@ -194,6 +196,7 @@ virtualbox
 virtualbox-host-modules-arch
 wget
 which
+woeusb-git
 wpa_supplicant
 wqy-zenhei
 xchm
