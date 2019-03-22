@@ -1,2 +1,2 @@
-# Ubuntu-Install-Steps
-Some initial configs about Ubuntu.
+# Linux-Install-Steps
+Install steps and some initial configs about Ubuntu and Arch.
