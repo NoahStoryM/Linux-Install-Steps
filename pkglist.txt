@@ -1,3 +1,4 @@
+anaconda
 arc-gtk-theme
 aria2
 autoconf
