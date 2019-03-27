@@ -133,6 +133,7 @@ mutter
 nano
 nasm
 nautilus
+neovim
 net-tools
 netctl
 netease-cloud-music
