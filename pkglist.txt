@@ -161,6 +161,7 @@ scrot
 sed
 shadow
 simple-scan
+ssf2fcitx-git
 steam
 sudo
 sushi
@@ -209,7 +210,7 @@ xfce4-terminal
 xfsprogs
 xkeycaps
 xorg-xinit
-yaourt
+yay
 yelp
 zsh
 zsh-autosuggestions
