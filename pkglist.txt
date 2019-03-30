@@ -55,6 +55,7 @@ gedit
 genymotion
 gettext
 ghc
+gimp
 git
 glibc
 gnome-backgrounds
