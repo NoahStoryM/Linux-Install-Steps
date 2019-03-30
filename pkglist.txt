@@ -108,9 +108,13 @@ gzip
 inetutils
 iproute2
 iputils
+ipython
 iw
 jdk
 jfsutils
+jupyter
+jupyter-notebook
+jupyterlab
 less
 libreoffice-fresh
 libreoffice-fresh-en-gb
