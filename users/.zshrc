@@ -79,7 +79,7 @@ ZSH_HIGHLIGHT_STYLES[alias]=fg=green,bold
 ZSH_HIGHLIGHT_STYLES[builtin]=fg=green,bold
 ZSH_HIGHLIGHT_STYLES[function]=fg=green,bold
 ZSH_HIGHLIGHT_STYLES[command]=fg=green,bold
-ZSH_HIGHLIGHT_STYLES[precommand]=fg=green,underline
+ZSH_HIGHLIGHT_STYLES[precommand]=fg=cyan,bold
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
