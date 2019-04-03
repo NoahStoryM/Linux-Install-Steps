@@ -155,7 +155,13 @@ pkgconf
 procps-ng
 psmisc
 pyenv
+python-matplotlib
+python-networkx
+python-numpy
+python-pandas
 python-pip
+python-scipy
+python-sympy
 racket
 rar
 reiserfsprogs
