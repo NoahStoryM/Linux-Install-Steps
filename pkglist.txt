@@ -1,4 +1,3 @@
-anaconda
 arc-gtk-theme
 aria2
 autoconf
@@ -13,6 +12,7 @@ bzip2
 calibre
 cheese
 chez-scheme-git
+chicken
 clisp
 cmake
 coreutils
@@ -22,6 +22,7 @@ device-mapper
 dhcpcd
 dialog
 diffutils
+dkms
 dosemu
 dosfstools
 e2fsprogs
@@ -45,6 +46,7 @@ findutils
 firefox
 flashplugin
 flex
+freealut
 freeglut
 gawk
 gcc
@@ -106,6 +108,8 @@ gvfs-nfs
 gvfs-smb
 gvim
 gzip
+ideviceinstaller-git
+ifuse
 inetutils
 iproute2
 iputils
@@ -132,6 +136,7 @@ man-pages
 masterpdfeditor
 mdadm
 minecraft
+mit-scheme
 mlocate
 mousetweaks
 mutter
@@ -155,6 +160,7 @@ pkgconf
 procps-ng
 psmisc
 pyenv
+python-cffi
 python-matplotlib
 python-networkx
 python-numpy
@@ -167,6 +173,7 @@ rar
 reiserfsprogs
 rygel
 s-nail
+sabaki
 screenfetch
 scrot
 sed
@@ -200,6 +207,7 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 texlive-science
+texmacs
 tmux
 totem
 tracker
