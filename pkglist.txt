@@ -17,6 +17,7 @@ clisp
 cmake
 coreutils
 cryptsetup
+deepin-wine-qq
 deepin-wine-tim
 device-mapper
 dhcpcd
