@@ -94,6 +94,7 @@ gnome-tweaks
 gnome-user-docs
 gnome-user-share
 gnome-video-effects
+go
 google-chrome
 grep
 grilo-plugins
@@ -136,6 +137,7 @@ man-db
 man-pages
 masterpdfeditor
 mdadm
+mesa-demos
 minecraft
 mit-scheme
 mlocate
@@ -151,6 +153,7 @@ netease-cloud-music
 networkmanager
 octave
 opendesktop-fonts
+opengl-man-pages
 orca
 p7zip
 pacman
@@ -161,6 +164,7 @@ pkgconf
 procps-ng
 psmisc
 pyenv
+pypy
 python-cffi
 python-matplotlib
 python-networkx
