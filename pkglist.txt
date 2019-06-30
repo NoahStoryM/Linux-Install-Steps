@@ -161,6 +161,7 @@ patch
 pciutils
 perl
 pkgconf
+pkgfile
 procps-ng
 psmisc
 pyenv
@@ -179,6 +180,7 @@ reiserfsprogs
 rygel
 s-nail
 sabaki
+sbcl
 screenfetch
 scrot
 sed
@@ -217,6 +219,7 @@ tmux
 totem
 tracker
 tracker-miners
+ttf-liberation
 usbutils
 util-linux
 vi
