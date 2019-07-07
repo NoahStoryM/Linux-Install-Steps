@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-  export ZSH="/home/user/.oh-my-zsh"
+  export ZSH="/home/noah/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -123,8 +123,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
-# emaxs
+# set emacs aliases
 alias emacs='LC_CTYPE=zh_TW.UTF-8 XMODIFIERS=@im=fcitx emacs'
 
-# matlab
+# set matlab aliases
 alias matlab='matlab -nodisplay'
