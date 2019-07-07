@@ -83,7 +83,10 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # set emacs aliases
-alias emacs='LC_CTYPE=zh_CN.UTF-8 emacs'
+alias emacs='LC_CTYPE=zh_TW.UTF-8 XMODIFIERS=@im=fcitx emacs'
+
+# set matlab aliases
+alias matlab='matlab -nodisplay'
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
