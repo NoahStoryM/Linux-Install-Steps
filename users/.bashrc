@@ -95,6 +95,9 @@ alias l='ls -CF'
 # set emacs aliases
 alias emacs='LC_CTYPE=zh_CN.UTF-8 emacs'
 
+# matlab
+alias matlab='matlab -nodisplay'
+
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
