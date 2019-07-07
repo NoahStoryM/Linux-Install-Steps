@@ -123,3 +123,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# emaxs
+alias emacs='LC_CTYPE=zh_TW.UTF-8 XMODIFIERS=@im=fcitx emacs'
+
+# matlab
+alias matlab='matlab -nodisplay'
