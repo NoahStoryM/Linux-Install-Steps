@@ -100,6 +100,7 @@ grep
 grilo-plugins
 groff
 grub
+gtk-engine-murrine
 gvfs
 gvfs-afc
 gvfs-goa
@@ -177,6 +178,7 @@ python-sympy
 racket
 rar
 reiserfsprogs
+rpmextract
 rygel
 s-nail
 sabaki
