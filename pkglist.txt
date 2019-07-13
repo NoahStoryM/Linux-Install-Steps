@@ -17,6 +17,8 @@ clisp
 cmake
 coreutils
 cryptsetup
+cuda
+cudnn
 deepin-wine-qq
 deepin-wine-tim
 device-mapper
@@ -152,6 +154,7 @@ net-tools
 netctl
 netease-cloud-music
 networkmanager
+nvidia-settings
 octave
 opendesktop-fonts
 opengl-man-pages
@@ -196,6 +199,7 @@ sysfsutils
 systemd
 systemd-sysvcompat
 tar
+tensorflow
 terminator
 texinfo
 texlive-bibtexextra
@@ -240,6 +244,7 @@ xf86-video-intel
 xfce4-terminal
 xfsprogs
 xkeycaps
+xorg-server-devel
 xorg-xinit
 yay
 yelp
