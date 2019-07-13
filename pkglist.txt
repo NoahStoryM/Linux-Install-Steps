@@ -199,6 +199,7 @@ sysfsutils
 systemd
 systemd-sysvcompat
 tar
+tclap
 tensorflow
 terminator
 texinfo
