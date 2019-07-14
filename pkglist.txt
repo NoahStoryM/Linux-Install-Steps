@@ -62,6 +62,7 @@ gettext
 ghc
 gimp
 git
+github-desktop
 glibc
 gnome-backgrounds
 gnome-boxes
