@@ -1,5 +1,5 @@
 arc-gtk-theme
-aria2
+aria2-fast
 autoconf
 autojump
 automake
