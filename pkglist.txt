@@ -31,6 +31,8 @@ dosemu
 dosfstools
 e2fsprogs
 efibootmgr
+eigen
+electron
 emacs
 eog
 epiphany
