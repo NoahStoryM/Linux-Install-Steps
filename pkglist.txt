@@ -1,5 +1,6 @@
 arc-gtk-theme
 aria2-fast
+aspell-en
 autoconf
 autojump
 automake
