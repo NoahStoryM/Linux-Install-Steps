@@ -66,6 +66,7 @@ ghc
 gimp
 git
 github-desktop
+gitlab
 glibc
 gnome-backgrounds
 gnome-boxes
@@ -124,7 +125,6 @@ iproute2
 iputils
 ipython
 iw
-jdk
 jfsutils
 jupyter
 jupyter-notebook
@@ -158,6 +158,7 @@ net-tools
 netctl
 netease-cloud-music
 networkmanager
+nvidia
 nvidia-settings
 octave
 opendesktop-fonts
