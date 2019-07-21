@@ -125,6 +125,7 @@ iproute2
 iputils
 ipython
 iw
+jdk-openjdk
 jfsutils
 jupyter
 jupyter-notebook
