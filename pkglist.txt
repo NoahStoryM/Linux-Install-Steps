@@ -135,6 +135,7 @@ jupyter
 jupyter-notebook
 jupyterlab
 less
+lib32-nvidia-utils
 libreoffice-fresh
 libreoffice-fresh-en-gb
 libtool
@@ -167,6 +168,7 @@ nilfs-utils
 nvidia
 nvidia-settings
 octave
+opencv
 opendesktop-fonts
 opengl-man-pages
 orca
@@ -281,6 +283,7 @@ xchm
 xdg-user-dirs-gtk
 xf86-input-synaptics
 xf86-video-intel
+xf86-video-nouveau
 xfce4-terminal
 xfsprogs
 xkeycaps
