@@ -20,6 +20,7 @@ coreutils
 cryptsetup
 cuda
 cudnn
+deepin-wine
 deepin-wine-qq
 deepin-wine-tim
 device-mapper
