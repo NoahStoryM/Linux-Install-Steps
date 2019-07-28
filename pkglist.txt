@@ -1,4 +1,7 @@
 arc-gtk-theme
+archcn-tools-meta
+archlinuxcn-keyring
+archlinuxcn-mirrorlist-git
 aria2-fast
 aspell-en
 autoconf
@@ -23,7 +26,10 @@ cudnn
 deepin-wine
 deepin-wine-qq
 deepin-wine-tim
+deepin-wine-wechat
 device-mapper
+devtools
+devtools-cn-git
 dhcpcd
 dialog
 diffutils
@@ -235,6 +241,7 @@ ssf2fcitx-git
 steam
 sudo
 sushi
+syringa
 sysfsutils
 systemd
 systemd-sysvcompat

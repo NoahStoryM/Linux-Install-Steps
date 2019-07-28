@@ -1,0 +1,17 @@
+##
+## Arch Linux CN community repository mirrorlist
+## Generated on 2019-06-27
+##
+
+Server = https://repo.archlinuxcn.org/$arch
+Server = https://mirrors.cloud.tencent.com/archlinuxcn/$arch
+Server = https://mirrors.163.com/archlinux-cn/$arch
+Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.zju.edu.cn/archlinuxcn/$arch
+Server = https://mirror.xtom.com.hk/archlinuxcn/$arch
+Server = https://mirror.xtom.com/archlinuxcn/$arch
+Server = https://mirrors.ocf.berkeley.edu/archlinuxcn/$arch
+Server = https://mirrors.cqu.edu.cn/archlinuxcn/$arch
+Server = https://mirrors.sjtug.sjtu.edu.cn/archlinux-cn/$arch
+Server = https://mirrors.dgut.edu.cn/archlinuxcn/$arch
