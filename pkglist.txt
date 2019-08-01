@@ -7,6 +7,7 @@ aspell-en
 autoconf
 autojump
 automake
+baidunetdisk-bin
 baobab
 bash
 binutils
@@ -75,6 +76,7 @@ gimp
 git
 github-desktop
 gitlab
+gitlab-runner
 glibc
 gnome-backgrounds
 gnome-boxes
