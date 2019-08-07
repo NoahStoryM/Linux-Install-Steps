@@ -275,6 +275,7 @@ tmux
 totem
 tracker
 tracker-miners
+trash-cli
 ttf-liberation
 udftools
 usbutils
