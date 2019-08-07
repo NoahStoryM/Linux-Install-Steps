@@ -115,7 +115,8 @@ alias terminal='xfce4-terminal --disable-server'
 # alias cd='pushd'
 
 # some more rm aliases
-alias rm='rm -rI'
+# alias rm='rm -rI'
+alias rm='trash-put'
 
 # some more ls aliases
 alias ls='ls --color=auto'

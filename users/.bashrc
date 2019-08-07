@@ -87,6 +87,13 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
+# # some more cd aliases
+# alias cd='pushd'
+
+# # some more rm aliases
+# alias rm='rm -rI'
+alias rm='trash-put'
+
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
@@ -124,5 +131,5 @@ fi
 
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u\[\033[00m\]@\[\033[01;36m\]\h:\[\033[01;33m\]\w\[\033[00m\]\$ '
 
-# added by Anaconda3 4.2.0 installer
-export PATH="/home/noah/anaconda3/bin:$PATH"
+## added by Anaconda3 4.2.0 installer
+# export PATH="/home/noah/anaconda3/bin:$PATH"

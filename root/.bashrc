@@ -77,6 +77,13 @@ if [ -x /usr/bin/dircolors ]; then
     alias egrep='egrep --color=auto'
 fi
 
+# # some more cd aliases
+# alias cd='pushd'
+
+# # some more rm aliases
+# alias rm='rm -rI'
+alias rm='trash-put'
+
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
