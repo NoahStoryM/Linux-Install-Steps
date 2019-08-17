@@ -157,9 +157,15 @@ make
 man-db
 man-pages
 masterpdfeditor
+mcpelauncher-linux-git
+mcpelauncher-msa-git
+mcpelauncher-msa-ui-qt-git
+mcpelauncher-ui-git
 mdadm
 mesa-demos
 minecraft
+minecraft-launcher
+minecraft-server
 mit-scheme
 mlocate
 mousetweaks
