@@ -206,6 +206,9 @@ python-pandas
 python-pip
 python-scipy
 python-sympy
+python-xlrd
+python-xlsxwriter
+python-xlwt
 qt5-3d
 qt5-charts
 qt5-connectivity
