@@ -293,6 +293,7 @@ vi
 vino
 virtualbox
 virtualbox-host-modules-arch
+visual-studio-code-bin
 wget
 which
 woeusb-git
