@@ -183,6 +183,7 @@ nilfs-utils
 nvidia
 nvidia-settings
 octave
+openbox
 opencv
 opendesktop-fonts
 opengl-man-pages
@@ -286,6 +287,7 @@ tmux
 totem
 tracker
 tracker-miners
+transset-df
 trash-cli
 ttf-liberation
 udftools
@@ -302,6 +304,7 @@ woeusb-git
 wpa_supplicant
 wqy-zenhei
 xchm
+xcompmgr
 xdg-user-dirs-gtk
 xf86-input-synaptics
 xf86-video-intel
