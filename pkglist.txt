@@ -244,6 +244,11 @@ rpmextract
 rygel
 s-nail
 sabaki
+sage-notebook
+sagemath
+sagemath-doc
+sagemath-jupyter
+sagetex
 sbcl
 screenfetch
 scrot
