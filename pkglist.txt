@@ -256,6 +256,7 @@ sddm
 sed
 shadow
 simple-scan
+smlnj
 ssf2fcitx-git
 steam
 sudo
