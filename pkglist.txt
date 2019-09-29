@@ -8,6 +8,7 @@ autoconf
 autojump
 automake
 baidunetdisk-bin
+baidupcs-go
 baobab
 bash
 binutils
