@@ -194,6 +194,7 @@ pacman
 patch
 pciutils
 perl
+pidgin
 pkgconf
 pkgfile
 procps-ng
@@ -202,6 +203,7 @@ pyenv
 pypy
 pyside2
 python-cffi
+python-language-server
 python-matplotlib
 python-networkx
 python-numpy
