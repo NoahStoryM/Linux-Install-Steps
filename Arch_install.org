@@ -79,7 +79,7 @@
 
   7. Install the base packages
 
-     `pacstrap /mnt base base-devel'
+     `pacstrap /mnt base linux linux-firmware'
 
   8. Generate an fstab file
 
