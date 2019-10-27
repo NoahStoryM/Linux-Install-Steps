@@ -41,6 +41,7 @@ cmake
 coreutils
 cpupower
 crda
+criterion
 cronie
 cryptsetup
 cuda
