@@ -100,7 +100,7 @@ alias la='ls -A'
 alias l='ls -CF'
 
 # set emacs aliases
-alias emacs='LC_CTYPE=zh_CN.UTF-8 emacs'
+alias emacs='LC_CTYPE=zh_CN.UTF-8 XMODIFIERS=@im=fcitx emacs'
 
 # matlab
 alias matlab='matlab -nodisplay'
