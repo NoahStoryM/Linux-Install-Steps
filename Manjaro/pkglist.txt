@@ -458,6 +458,7 @@ which
 woeusb-git
 wpa_supplicant
 wqy-zenhei
+xcape
 xchm
 xcompmgr
 xcursor-simpleandsoft
