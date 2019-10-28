@@ -27,6 +27,7 @@ binutils
 bison
 blueman
 bluez-utils
+bookworm
 boost
 btrfs-progs
 bzip2
