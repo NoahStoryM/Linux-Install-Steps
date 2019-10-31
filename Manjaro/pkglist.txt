@@ -322,10 +322,14 @@ python-numpy
 python-pandas
 python-pillow
 python-pip
+python-pymupdf
 python-pyqt5
+python-pyqtwebengine
+python-qrcode
 python-reportlab
 python-scipy
 python-sympy
+python-xlib
 python-xlrd
 python-xlsxwriter
 python-xlwt
@@ -357,6 +361,7 @@ qt5-webengine
 qt5-webglplugin
 qt5-websockets
 qt5-webview
+qtermwidget
 racket
 rar
 reiserfsprogs
