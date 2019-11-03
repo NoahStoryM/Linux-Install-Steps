@@ -37,6 +37,7 @@ catfish
 cheese
 chez-scheme-git
 chicken
+clinfo
 clisp
 cmake
 coreutils
@@ -181,6 +182,7 @@ lib32-mesa-vdpau
 lib32-nvidia-utils
 lib32-vulkan-intel
 lib32-vulkan-radeon
+libclc
 libdvdcss
 libgsf
 libopenraw
@@ -281,6 +283,8 @@ ntp
 numlockx
 octave
 openbox
+opencl-headers
+opencl-mesa
 opencv
 opendesktop-fonts
 opengl-man-pages
