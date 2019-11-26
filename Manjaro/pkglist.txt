@@ -14,7 +14,7 @@ aria2-fast
 aspell-en
 audacious
 autoconf
-autojump-git
+autojump
 automake
 avahi
 b43-fwcutter
