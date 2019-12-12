@@ -86,6 +86,8 @@ f2fs-tools
 fakeroot
 fcitx
 fcitx-configtool
+fcitx-gtk2
+fcitx-gtk3
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
