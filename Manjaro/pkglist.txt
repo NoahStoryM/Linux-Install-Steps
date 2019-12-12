@@ -83,8 +83,8 @@ exfat-utils
 exo
 f2fs-tools
 fakeroot
+fcitx
 fcitx-configtool
-fcitx-lilydjwg-git
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
