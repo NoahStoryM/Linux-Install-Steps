@@ -73,6 +73,7 @@ ecryptfs-utils
 efibootmgr
 eigen
 electron
+electronic-wechat
 emacs
 engrampa
 eog
@@ -93,6 +94,7 @@ file-roller
 filesystem
 findutils
 firefox
+flameshot
 flashplugin
 flatpak
 flex
@@ -389,6 +391,7 @@ scrot
 sddm
 sed
 shadow
+shadowsocks-qt5
 simple-scan
 smlnj
 snapd
@@ -471,6 +474,7 @@ wget
 which
 woeusb-git
 wpa_supplicant
+wps-office
 wqy-zenhei
 xcape
 xchm
@@ -532,6 +536,7 @@ xfdesktop
 xfsprogs
 xfwm4
 xiccd
+xilinx-vivado-dummy
 xkeycaps
 xorg-docs
 xorg-fonts-100dpi
