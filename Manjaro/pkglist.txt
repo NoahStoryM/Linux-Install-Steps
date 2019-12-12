@@ -286,6 +286,7 @@ ntfs-3g
 ntp
 numlockx
 octave
+octopi
 openbox
 opencl-headers
 opencl-mesa
@@ -472,6 +473,8 @@ wallpapers-2018
 wallpapers-juhraya
 wget
 which
+winetricks
+winetricks-zh
 woeusb-git
 wpa_supplicant
 wps-office
