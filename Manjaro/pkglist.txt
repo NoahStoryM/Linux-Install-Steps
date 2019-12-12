@@ -86,8 +86,10 @@ f2fs-tools
 fakeroot
 fcitx
 fcitx-configtool
+fcitx-googlepinyin
 fcitx-gtk2
 fcitx-gtk3
+fcitx-qt4
 fcitx-qt5
 fcitx-sogoupinyin
 ffmpeg
@@ -581,6 +583,7 @@ xorg-xsetroot
 xorg-xvinfo
 xorg-xwd
 xorg-xwud
+yaourt
 yay
 yelp
 zsh
