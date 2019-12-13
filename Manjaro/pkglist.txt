@@ -37,6 +37,7 @@ catfish
 cheese
 chez-scheme-git
 chicken
+clash
 clinfo
 clisp
 clojure
