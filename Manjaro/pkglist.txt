@@ -400,6 +400,7 @@ scrot
 sddm
 sed
 shadow
+shadowsocks
 shadowsocks-qt5
 simple-scan
 smlnj
