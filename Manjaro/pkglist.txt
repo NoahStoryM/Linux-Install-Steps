@@ -597,6 +597,7 @@ xorg-xrefresh
 xorg-xsetroot
 xorg-xvinfo
 xorg-xwd
+xorg-xwininfo
 xorg-xwud
 yaourt
 yay
