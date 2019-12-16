@@ -32,6 +32,7 @@ bluez-utils
 bookworm
 boost
 btrfs-progs
+bumblebee
 bzip2
 calibre
 cantarell-fonts
@@ -191,8 +192,10 @@ lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
-lib32-nvidia-440xx-utils
+lib32-nvidia-430xx-utils
 lib32-opencl-nvidia-435xx
+lib32-primus
+lib32-virtualgl
 lib32-vulkan-intel
 lib32-vulkan-radeon
 libclc
@@ -216,7 +219,7 @@ linux-latest-bbswitch
 linux-latest-broadcom-wl
 linux-latest-headers
 linux-latest-ndiswrapper
-linux-latest-nvidia-440xx
+linux-latest-nvidia-430xx
 linux-latest-nvidiabl
 linux-latest-r8168
 linux-latest-rtl8723bu
@@ -225,6 +228,8 @@ linux-latest-vhba-module
 linux-latest-virtualbox-guest-modules
 linux-latest-virtualbox-host-modules
 linux-latest-zfs
+linux54-bbswitch
+linux54-nvidia-430xx
 lldb
 logrotate
 lsb-release
@@ -259,7 +264,9 @@ menulibre
 mesa-demos
 mesa-vdpau
 mhwd
+mhwd-chroot
 mhwd-db
+mhwd-tui
 minecraft
 minecraft-launcher
 minecraft-server
@@ -295,7 +302,7 @@ nss-mdns
 ntfs-3g
 ntp
 numlockx
-nvidia-440xx-utils
+nvidia-430xx-utils
 octave
 octopi
 openbox
@@ -480,6 +487,7 @@ viewnior
 vino
 virtualbox
 virtualbox-sdk
+virtualgl
 visual-studio-code-bin
 vlc
 vmware-workstation
