@@ -110,6 +110,7 @@ flex
 freealut
 freetype2
 galculator-gtk2
+gambit-c
 garcon
 gawk
 gcc
@@ -119,6 +120,7 @@ gdb
 gdm
 gedit
 genymotion
+gerbil-scheme-git
 gettext
 ghc
 ghostscript
