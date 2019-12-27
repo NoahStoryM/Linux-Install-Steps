@@ -279,6 +279,7 @@ mobile-broadband-provider-info
 modemmanager
 mousepad
 mousetweaks
+mplayer
 mtpfs
 mugshot
 mutter
@@ -417,6 +418,7 @@ shadowsocks
 shadowsocks-qt5
 simple-scan
 smlnj
+smplayer
 snapd
 snapd-glib
 spectre-meltdown-checker
