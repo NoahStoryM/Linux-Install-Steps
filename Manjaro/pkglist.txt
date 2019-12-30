@@ -343,7 +343,6 @@ pulseaudio-ctl
 pulseaudio-zeroconf
 pyenv
 pypy
-pyqt5-common
 pyside2
 python-beautifulsoup4
 python-cffi
@@ -575,7 +574,6 @@ xorg-fonts-75dpi
 xorg-luit
 xorg-server
 xorg-server-devel
-xorg-server-xdmx
 xorg-server-xephyr
 xorg-server-xnest
 xorg-server-xvfb
@@ -603,6 +601,7 @@ xorg-xvinfo
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+xorgproto-transfer
 yaourt
 yay
 yelp
