@@ -364,6 +364,7 @@ python-xlib
 python-xlrd
 python-xlsxwriter
 python-xlwt
+python2-pip
 qpdfview
 qq-linux
 qt5-3d
