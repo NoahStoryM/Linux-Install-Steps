@@ -40,6 +40,7 @@ catfish
 cheese
 chez-scheme-git
 chicken
+chromium
 clash
 clinfo
 clisp
@@ -332,6 +333,7 @@ perl-file-mimeinfo
 pidgin
 pkgconf
 pkgfile
+polipo
 poppler-data
 poppler-glib
 powertop
