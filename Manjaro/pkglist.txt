@@ -400,6 +400,8 @@ qtermwidget
 racket
 rar
 reiserfsprogs
+riot-desktop
+riot-web
 rpmextract
 rsync
 rygel
