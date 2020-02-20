@@ -373,6 +373,7 @@ python-xlsxwriter
 python-xlwt
 python2-pip
 qemu
+qemu-arch-extra
 qpdfview
 qq-linux
 qt5-3d
