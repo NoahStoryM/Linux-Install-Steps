@@ -31,12 +31,14 @@ blueman
 bluez-utils
 bookworm
 boost
+browser360
 btrfs-progs
 bumblebee
 bzip2
 calibre
 cantarell-fonts
 catfish
+cgdb
 cheese
 chez-scheme
 chicken
@@ -280,6 +282,7 @@ mobile-broadband-provider-info
 modemmanager
 mousepad
 mousetweaks
+mpc
 mplayer
 mtpfs
 mugshot
@@ -368,6 +371,7 @@ python-xlrd
 python-xlsxwriter
 python-xlwt
 python2-pip
+qemu
 qpdfview
 qq-linux
 qt5-3d
