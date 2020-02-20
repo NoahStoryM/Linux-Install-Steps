@@ -264,6 +264,7 @@ mcpelauncher-msa-git
 mcpelauncher-msa-ui-qt-git
 mcpelauncher-ui-git
 mdadm
+meld
 memtest86+
 menulibre
 mesa-demos
