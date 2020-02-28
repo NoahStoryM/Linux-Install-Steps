@@ -137,6 +137,7 @@ glibc
 gnome-icon-theme
 gnome-keyring
 gnome-themes-extra
+gnuradio-companion
 go
 google-chrome
 gpart
@@ -233,8 +234,6 @@ linux-latest-vhba-module
 linux-latest-virtualbox-guest-modules
 linux-latest-virtualbox-host-modules
 linux-latest-zfs
-linux54-bbswitch
-linux54-nvidia-430xx
 lldb
 logrotate
 lsb-release
@@ -259,6 +258,7 @@ manjaro-wallpapers-18.0
 manjaro-xfce-settings
 masterpdfeditor
 matcha-gtk-theme
+matterbridge
 mcpelauncher-linux-git
 mcpelauncher-msa-git
 mcpelauncher-msa-ui-qt-git
@@ -428,6 +428,7 @@ shadow
 shadowsocks
 shadowsocks-qt5
 simple-scan
+slack-online-jak
 smlnj
 smplayer
 snapd
