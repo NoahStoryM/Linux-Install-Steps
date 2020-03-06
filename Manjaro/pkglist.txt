@@ -132,7 +132,6 @@ git
 github-desktop
 gitlab
 gitlab-runner
-gksu-polkit
 glibc
 gnome-icon-theme
 gnome-keyring
@@ -613,6 +612,7 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 xorgproto-transfer
+yandex-browser-beta
 yaourt
 yay
 yelp
