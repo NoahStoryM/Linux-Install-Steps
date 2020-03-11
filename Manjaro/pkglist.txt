@@ -616,6 +616,7 @@ yandex-browser-beta
 yaourt
 yay
 yelp
+youtube-dl
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
