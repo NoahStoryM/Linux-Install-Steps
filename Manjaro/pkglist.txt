@@ -317,6 +317,7 @@ openbox
 opencl-headers
 opencl-mesa
 opencv
+opencv-docs
 opendesktop-fonts
 opengl-man-pages
 openresolv
