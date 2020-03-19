@@ -110,6 +110,7 @@ flameshot
 flashplugin
 flatpak
 flex
+flite
 freealut
 freetype2
 galculator-gtk2
