@@ -429,6 +429,7 @@ shadow
 shadowsocks
 shadowsocks-qt5
 simple-scan
+slack-desktop
 slack-online-jak
 smlnj
 smplayer
