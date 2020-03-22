@@ -190,6 +190,7 @@ jre8-openjdk-headless
 jupyter
 jupyter-notebook
 jupyterlab
+katago-opencl
 kernel-alive
 less
 lib32-flex
