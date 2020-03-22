@@ -59,6 +59,7 @@ cudnn
 cups
 cups-pdf
 cups-pk-helper
+darktable
 dbus-x11
 deepin-wine
 device-mapper
@@ -174,6 +175,8 @@ htop
 ifuse
 imwheel
 inetutils
+intel-media-sdk
+intel-opencl-sdk
 intel-ucode
 inxi
 iproute2
@@ -200,7 +203,7 @@ lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
 lib32-nvidia-430xx-utils
-lib32-opencl-nvidia-435xx
+lib32-opencl-nvidia-430xx
 lib32-primus
 lib32-virtualgl
 lib32-vulkan-intel
@@ -318,6 +321,7 @@ onboard
 openbox
 opencl-headers
 opencl-mesa
+opencl-nvidia-430xx
 opencv
 opencv-docs
 opendesktop-fonts
