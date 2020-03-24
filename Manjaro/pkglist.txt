@@ -410,6 +410,7 @@ qt5-websockets
 qt5-webview
 qtermwidget
 racket
+ranger
 rar
 reiserfsprogs
 riot-desktop
