@@ -95,8 +95,6 @@ fakeroot
 fcitx
 fcitx-configtool
 fcitx-googlepinyin
-fcitx-gtk2
-fcitx-gtk3
 fcitx-qt4
 fcitx-qt5
 fcitx-sogoupinyin
@@ -130,6 +128,7 @@ gettext
 ghc
 ghostscript
 gimp
+gist
 git
 github-desktop
 gitlab
