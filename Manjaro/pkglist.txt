@@ -169,6 +169,7 @@ gvim
 gzip
 haveged
 hexchat
+hmcl
 hplip
 htop
 ifuse
