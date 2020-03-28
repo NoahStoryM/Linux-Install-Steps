@@ -185,6 +185,7 @@ iputils
 ipw2100-fw
 ipw2200-fw
 ipython
+iverilog
 jdk-openjdk
 jdk8-openjdk
 jfsutils
@@ -366,6 +367,7 @@ python-numpy
 python-pandas
 python-pillow
 python-pip
+python-pyglet
 python-pymupdf
 python-pyqt5
 python-pyqtwebengine
@@ -506,6 +508,7 @@ unace
 usb_modeswitch
 usbutils
 util-linux
+verilator
 vi
 viewnior
 vino
@@ -513,6 +516,7 @@ virtualbox
 virtualbox-sdk
 virtualgl
 visual-studio-code-bin
+vivado
 vlc
 vmware-workstation
 vulkan-intel
