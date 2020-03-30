@@ -631,6 +631,7 @@ yaourt
 yay
 yelp
 youtube-dl
+zoom
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
