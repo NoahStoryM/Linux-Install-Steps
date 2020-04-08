@@ -3,6 +3,7 @@ acpi
 acpid
 alsa-firmware
 alsa-utils
+amdvlk
 android-sdk
 android-sdk-build-tools
 android-tools
@@ -197,6 +198,7 @@ jupyterlab
 katago-opencl
 kernel-alive
 less
+lib32-amdvlk
 lib32-flex
 lib32-libva-intel-driver
 lib32-libva-mesa-driver
@@ -206,9 +208,13 @@ lib32-mesa-vdpau
 lib32-nvidia-430xx-utils
 lib32-opencl-nvidia-430xx
 lib32-primus
+lib32-primus_vk
 lib32-virtualgl
+lib32-vkd3d
+lib32-vulkan-icd-loader
 lib32-vulkan-intel
 lib32-vulkan-radeon
+lib32-vulkan-validation-layers
 libclc
 libdvdcss
 libgsf
@@ -349,6 +355,7 @@ polipo
 poppler-data
 poppler-glib
 powertop
+primus_vk
 procps-ng
 proxychains-ng
 psmisc
@@ -360,6 +367,7 @@ pypy
 pyside2
 python-beautifulsoup4
 python-cffi
+python-glfw
 python-language-server
 python-matplotlib
 python-networkx
@@ -517,6 +525,7 @@ virtualbox-sdk
 virtualgl
 visual-studio-code-bin
 vivado
+vkd3d
 vlc
 vmware-workstation
 vulkan-extra-layers
