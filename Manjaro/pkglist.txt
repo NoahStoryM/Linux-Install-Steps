@@ -519,8 +519,14 @@ visual-studio-code-bin
 vivado
 vlc
 vmware-workstation
+vulkan-extra-layers
+vulkan-headers
+vulkan-html-docs
 vulkan-intel
 vulkan-radeon
+vulkan-tools
+vulkan-trace
+vulkan-validation-layers
 wallpapers-2018
 wallpapers-juhraya
 wget
