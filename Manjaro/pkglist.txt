@@ -63,6 +63,7 @@ cups-pk-helper
 darktable
 dbus-x11
 deepin-wine
+desmume
 device-mapper
 devilspie
 devtools
@@ -75,6 +76,8 @@ dkms
 dmidecode
 dmraid
 dnsmasq
+dolphin-emu
+dosbox
 dosemu
 dosfstools
 e2fsprogs
@@ -93,6 +96,7 @@ exfat-utils
 exo
 f2fs-tools
 fakeroot
+fceux
 fcitx
 fcitx-configtool
 fcitx-googlepinyin
@@ -123,6 +127,7 @@ gcolor2
 gdb
 gdm
 gedit
+gens-gs
 genymotion
 gerbil-scheme-git
 gettext
@@ -170,6 +175,7 @@ gvim
 gzip
 haveged
 hexchat
+higan
 hmcl
 hplip
 htop
@@ -206,6 +212,7 @@ lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
 lib32-nvidia-430xx-utils
+lib32-nvidia-cg-toolkit
 lib32-opencl-nvidia-430xx
 lib32-primus
 lib32-primus_vk
@@ -220,6 +227,37 @@ libdvdcss
 libgsf
 libopenraw
 libreoffice-still
+libretro-beetle-pce
+libretro-beetle-pce-fast
+libretro-beetle-psx
+libretro-beetle-psx-hw
+libretro-beetle-supergrafx
+libretro-blastem
+libretro-bsnes
+libretro-bsnes-hd
+libretro-bsnes2014
+libretro-citra
+libretro-core-info
+libretro-desmume
+libretro-dolphin
+libretro-flycast
+libretro-gambatte
+libretro-genesis-plus-gx
+libretro-kronos
+libretro-melonds
+libretro-mgba
+libretro-mupen64plus-next
+libretro-nestopia
+libretro-overlays
+libretro-parallel-n64
+libretro-picodrive
+libretro-play
+libretro-ppsspp
+libretro-redream
+libretro-scummvm
+libretro-shaders-slang
+libretro-snes9x
+libretro-yabause
 libtool
 libva-intel-driver
 libva-mesa-driver
@@ -251,6 +289,7 @@ lsb-release
 lvm2
 m4
 make
+mame
 man-db
 man-pages
 manjaro-alsa
@@ -275,11 +314,14 @@ mcpelauncher-msa-git
 mcpelauncher-msa-ui-qt-git
 mcpelauncher-ui-git
 mdadm
+mednafen
 meld
 memtest86+
 menulibre
 mesa-demos
 mesa-vdpau
+mgba-qt
+mgba-sdl
 mhwd
 mhwd-chroot
 mhwd-db
@@ -298,6 +340,7 @@ mpc
 mplayer
 mtpfs
 mugshot
+mupen64plus
 mutter
 nano
 nasm
@@ -322,6 +365,7 @@ ntfs-3g
 ntp
 numlockx
 nvidia-430xx-utils
+nvidia-cg-toolkit
 octave
 octopi
 onboard
@@ -346,6 +390,7 @@ patch
 patchutils
 pavucontrol
 pciutils
+pcsx2
 perl
 perl-file-mimeinfo
 pidgin
@@ -355,6 +400,7 @@ polipo
 poppler-data
 poppler-glib
 powertop
+ppsspp
 primus_vk
 procps-ng
 proxychains-ng
@@ -423,6 +469,9 @@ racket
 ranger
 rar
 reiserfsprogs
+retroarch
+retroarch-assets-ozone
+retroarch-assets-xmb
 riot-desktop
 riot-web
 rpmextract
@@ -439,6 +488,8 @@ samba
 sbcl
 screenfetch
 scrot
+scummvm
+scummvm-tools
 sddm
 sed
 shadow
@@ -451,6 +502,8 @@ smlnj
 smplayer
 snapd
 snapd-glib
+snes9x
+snes9x-gtk
 spectre-meltdown-checker
 splix
 ssf2fcitx-git
@@ -516,6 +569,7 @@ unace
 usb_modeswitch
 usbutils
 util-linux
+vbam-wx
 verilator
 vi
 viewnior
@@ -540,6 +594,7 @@ wallpapers-2018
 wallpapers-juhraya
 wget
 which
+wiiuse
 winetricks
 winetricks-zh
 woeusb-git
@@ -646,7 +701,9 @@ yaourt
 yay
 yelp
 youtube-dl
+yuzu-git
 zoom
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
+zsnes
