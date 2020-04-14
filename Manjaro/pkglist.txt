@@ -142,6 +142,7 @@ gitlab-runner
 glibc
 gnome-icon-theme
 gnome-keyring
+gnome-terminal
 gnome-themes-extra
 gnuradio-companion
 go
@@ -163,6 +164,7 @@ gst-plugins-ugly
 gtk3
 gtkhash-thunar
 gufw
+gulp
 gvfs
 gvfs-afc
 gvfs-goa
@@ -358,6 +360,7 @@ networkmanager-pptp
 networkmanager-vpnc
 nfs-utils
 nilfs-utils
+nodejs
 noto-fonts
 noto-fonts-cjk
 nss-mdns
