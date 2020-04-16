@@ -27,6 +27,8 @@ baidupcs-go
 baobab
 bash-completion
 bauh
+bilibili-live-helper-bin
+bilidan-git
 binutils
 bison
 blueman
