@@ -280,7 +280,6 @@ linux-latest-broadcom-wl
 linux-latest-headers
 linux-latest-ndiswrapper
 linux-latest-nvidia-430xx
-linux-latest-nvidiabl
 linux-latest-r8168
 linux-latest-rtl8723bu
 linux-latest-tp_smapi
@@ -288,6 +287,19 @@ linux-latest-vhba-module
 linux-latest-virtualbox-guest-modules
 linux-latest-virtualbox-host-modules
 linux-latest-zfs
+linux56
+linux56-acpi_call
+linux56-bbswitch
+linux56-broadcom-wl
+linux56-headers
+linux56-ndiswrapper
+linux56-nvidia-430xx
+linux56-r8168
+linux56-tp_smapi
+linux56-vhba-module
+linux56-virtualbox-guest-modules
+linux56-virtualbox-host-modules
+linux56-zfs
 lldb
 logrotate
 lsb-release
