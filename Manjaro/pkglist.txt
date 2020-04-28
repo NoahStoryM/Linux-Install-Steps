@@ -344,7 +344,6 @@ mhwd-chroot
 mhwd-db
 mhwd-tui
 minecraft
-minecraft-launcher
 minecraft-server
 mit-scheme
 mkinitcpio-openswap
