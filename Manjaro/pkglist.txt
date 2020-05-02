@@ -139,7 +139,7 @@ ghostscript
 gimp
 gist
 git
-github-desktop
+github-desktop-bin
 gitlab
 gitlab-runner
 glibc
