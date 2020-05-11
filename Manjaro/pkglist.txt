@@ -383,6 +383,7 @@ ntp
 numlockx
 nvidia-430xx-utils
 nvidia-cg-toolkit
+nvidia-sdk
 obs-studio
 octave
 octopi
