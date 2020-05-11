@@ -421,6 +421,7 @@ poppler-data
 poppler-glib
 powertop
 ppsspp
+primus
 primus_vk
 procps-ng
 proxychains-ng
