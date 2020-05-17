@@ -515,7 +515,9 @@ sddm
 sed
 shadow
 shadowsocks
+shadowsocks-libev
 shadowsocks-qt5
+simple-obfs
 simple-scan
 slack-desktop
 slack-online-jak
