@@ -52,6 +52,7 @@ clinfo
 clisp
 clojure
 cmake
+convmv
 coreutils
 cpupower
 crda
