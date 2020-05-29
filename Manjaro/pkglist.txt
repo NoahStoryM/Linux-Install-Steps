@@ -358,6 +358,7 @@ mpc
 mplayer
 mtpfs
 mugshot
+multimc5
 mupen64plus
 mutter
 nano
