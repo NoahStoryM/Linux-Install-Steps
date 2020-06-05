@@ -398,6 +398,7 @@ opencl-nvidia-430xx
 opencv
 opencv-docs
 opendesktop-fonts
+opendoas
 opengl-man-pages
 openresolv
 openssh
@@ -522,7 +523,7 @@ shadowsocks-qt5
 simple-obfs
 simple-scan
 slack-desktop
-slack-online-jak
+slack-web-jak
 smlnj
 smplayer
 snapd
