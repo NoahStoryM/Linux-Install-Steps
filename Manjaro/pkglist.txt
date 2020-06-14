@@ -260,7 +260,7 @@ libretro-parallel-n64
 libretro-picodrive
 libretro-play
 libretro-ppsspp
-libretro-redream
+libretro-retrodream
 libretro-scummvm
 libretro-shaders-slang
 libretro-snes9x
@@ -289,6 +289,7 @@ linux-latest-vhba-module
 linux-latest-virtualbox-guest-modules
 linux-latest-virtualbox-host-modules
 linux-latest-zfs
+linux-steam-integration
 linux56
 linux56-acpi_call
 linux56-bbswitch
@@ -522,6 +523,7 @@ shadowsocks-libev
 shadowsocks-qt5
 simple-obfs
 simple-scan
+sl
 slack-desktop
 slack-web-jak
 smlnj
@@ -534,6 +536,7 @@ spectre-meltdown-checker
 splix
 ssf2fcitx-git
 steam-manjaro
+steam-native
 subversion
 sudo
 sushi
