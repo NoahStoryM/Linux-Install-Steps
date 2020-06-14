@@ -193,6 +193,7 @@ intel-media-sdk
 intel-opencl-sdk
 intel-ucode
 inxi
+iotop
 iproute2
 iptables
 iputils
