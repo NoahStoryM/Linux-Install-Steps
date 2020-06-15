@@ -156,7 +156,6 @@ gpart
 gparted
 gperftools
 grep
-grilo-plugins
 grub
 grub-customizer
 grub-theme-manjaro
@@ -365,7 +364,6 @@ mupen64plus
 mutter
 nano
 nasm
-nautilus
 neofetch
 neovim
 net-tools
@@ -502,7 +500,6 @@ riot-desktop
 riot-web
 rpmextract
 rsync
-rygel
 s-nail
 sabaki
 sage-notebook-exporter
@@ -580,8 +577,6 @@ timeshift
 tlp
 tmux
 totem
-tracker
-tracker-miners
 transset-df
 trash-cli
 tree
