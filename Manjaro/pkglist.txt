@@ -14,7 +14,7 @@ arc-gtk-theme
 archcn-tools-meta
 archlinuxcn-keyring
 archlinuxcn-mirrorlist-git
-aria2-fast
+aria2
 aspell-en
 audacious
 autoconf
@@ -112,6 +112,7 @@ ffmpegthumbnailer
 ffnvcodec-headers
 file
 file-roller
+filebrowser-bin
 filesystem
 findutils
 firefox
@@ -437,8 +438,11 @@ pypy
 pyside2
 python-beautifulsoup4
 python-cffi
+python-feedparser
 python-glfw
+python-grip
 python-language-server
+python-markdown
 python-matplotlib
 python-networkx
 python-numpy
@@ -446,6 +450,7 @@ python-pandas
 python-pillow
 python-pip
 python-pyglet
+python-pyinotify
 python-pymupdf
 python-pyqt5
 python-pyqtwebengine
