@@ -1,6 +1,7 @@
 accountsservice
 acpi
 acpid
+advancecomp
 alsa-firmware
 alsa-utils
 amdvlk
