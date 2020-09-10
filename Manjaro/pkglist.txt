@@ -445,6 +445,7 @@ python-feedparser
 python-glfw
 python-grip
 python-language-server
+python-manimlib
 python-markdown
 python-matplotlib
 python-networkx
