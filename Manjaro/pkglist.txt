@@ -436,6 +436,7 @@ psmisc
 pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
+pv
 pyenv
 pypy
 pyside2
