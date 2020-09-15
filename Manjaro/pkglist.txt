@@ -415,6 +415,7 @@ pciutils
 pcsx2
 perl
 perl-file-mimeinfo
+php
 pidgin
 pkgconf
 pkgfile
