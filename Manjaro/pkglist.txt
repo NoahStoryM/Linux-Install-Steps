@@ -346,6 +346,8 @@ mhwd-tui
 minecraft
 minecraft-server
 mkinitcpio-openswap
+mkvtoolnix-cli
+mkvtoolnix-gui
 mlocate
 mobile-broadband-provider-info
 modemmanager
