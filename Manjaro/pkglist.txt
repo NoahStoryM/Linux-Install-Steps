@@ -524,6 +524,7 @@ shadow
 shadowsocks
 shadowsocks-libev
 shadowsocks-qt5
+shotcut
 simple-obfs
 simple-scan
 sl
@@ -587,6 +588,7 @@ transmission-qt
 transset-df
 trash-cli
 tree
+tsmuxer-git
 ttf-bitstream-vera
 ttf-droid
 ttf-inconsolata
