@@ -624,6 +624,7 @@ vulkan-radeon
 vulkan-tools
 vulkan-trace
 vulkan-validation-layers
+wabt
 wallpapers-2018
 wallpapers-juhraya
 wget
