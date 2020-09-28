@@ -299,6 +299,7 @@ linux58-vhba-module
 linux58-virtualbox-guest-modules
 linux58-virtualbox-host-modules
 linux58-zfs
+linuxqq
 lldb
 logrotate
 lsb-release
@@ -393,7 +394,7 @@ onboard
 openbox
 opencl-headers
 opencl-mesa
-opencl-nvidia-430xx
+opencl-nvidia-450xx
 opencv
 opencv-docs
 opendesktop-fonts
@@ -468,7 +469,6 @@ python2-pip
 qemu
 qemu-arch-extra
 qpdfview
-qq-linux
 qt5-3d
 qt5-charts
 qt5-connectivity
