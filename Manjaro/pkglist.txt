@@ -279,6 +279,7 @@ linux-latest
 linux-latest-acpi_call
 linux-latest-broadcom-wl
 linux-latest-headers
+linux-latest-nvidia-450xx
 linux-latest-r8168
 linux-latest-rtl8723bu
 linux-latest-tp_smapi
