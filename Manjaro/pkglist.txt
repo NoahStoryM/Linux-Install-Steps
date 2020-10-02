@@ -347,6 +347,7 @@ mhwd-db
 mhwd-tui
 minecraft
 minecraft-server
+mit-scheme
 mkinitcpio-openswap
 mkvtoolnix-cli
 mkvtoolnix-gui
