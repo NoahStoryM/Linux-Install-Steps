@@ -18,6 +18,7 @@ archlinuxcn-mirrorlist-git
 aria2
 aspell-en
 audacious
+audiofile
 autoconf
 autojump
 automake
@@ -45,6 +46,7 @@ catfish
 cgdb
 cheese
 chez-scheme
+chibi-scheme
 chicken
 chromium
 clash
@@ -388,7 +390,6 @@ numlockx
 nvidia-450xx-utils
 nvidia-cg-toolkit
 nvidia-prime
-nvidia-sdk
 obs-studio
 octave
 octopi
