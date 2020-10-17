@@ -499,6 +499,7 @@ qt5-webglplugin
 qt5-websockets
 qt5-webview
 qtermwidget
+qv2ray
 racket
 ranger
 rar
@@ -527,6 +528,7 @@ shadow
 shadowsocks
 shadowsocks-libev
 shadowsocks-qt5
+shadowsocks-v2ray-plugin
 shotcut
 simple-obfs
 simple-scan
@@ -606,6 +608,11 @@ unace
 usb_modeswitch
 usbutils
 util-linux
+v2ray
+v2ray-desktop
+v2ray-domain-list-community
+v2ray-geoip
+v2raya
 vbam-wx
 verilator
 vi
