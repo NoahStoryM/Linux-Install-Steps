@@ -189,6 +189,8 @@ higan
 hmcl
 hplip
 htop
+idris
+idris2
 ifuse
 imwheel
 inetutils
