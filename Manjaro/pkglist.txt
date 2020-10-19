@@ -367,6 +367,7 @@ mugshot
 multimc5
 mupen64plus
 mutter
+mysql
 nano
 nasm
 neofetch
