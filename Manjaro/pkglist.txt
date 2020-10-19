@@ -362,11 +362,16 @@ mousepad
 mousetweaks
 mpc
 mplayer
+msodbcsql
+mssql-cli
+mssql-server
+mssql-tools
 mtpfs
 mugshot
 multimc5
 mupen64plus
 mutter
+mycli
 mysql
 nano
 nasm
