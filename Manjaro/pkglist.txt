@@ -10,6 +10,7 @@ android-sdk-build-tools
 android-tools
 android-udev
 annie
+apache
 apparmor
 arc-gtk-theme
 archcn-tools-meta
@@ -430,6 +431,8 @@ pcsx2
 perl
 perl-file-mimeinfo
 php
+php-apache
+phpmyadmin
 pidgin
 pkgconf
 pkgfile
