@@ -70,6 +70,9 @@ cups-pk-helper
 darktable
 dbus-x11
 deepin-wine
+deepin-wine-qq
+deepin-wine-tim
+deepin-wine-wechat
 desmume
 device-mapper
 devilspie
@@ -651,6 +654,7 @@ wallpapers-juhraya
 wget
 which
 wiiuse
+wine-wechat
 winetricks
 winetricks-zh
 woeusb-git
