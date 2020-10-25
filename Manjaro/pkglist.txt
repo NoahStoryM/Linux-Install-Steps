@@ -73,6 +73,7 @@ deepin-wine
 deepin-wine-qq
 deepin-wine-tim
 deepin-wine-wechat
+deno
 desmume
 device-mapper
 devilspie
@@ -607,6 +608,7 @@ transmission-qt
 transset-df
 trash-cli
 tree
+ts-node
 tsmuxer-git
 ttf-bitstream-vera
 ttf-droid
@@ -614,6 +616,7 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 tumbler
+typescript
 typora
 udftools
 udiskie
