@@ -71,9 +71,11 @@ cups-pk-helper
 darktable
 dbus-x11
 deepin-wine
-deepin-wine-qq
-deepin-wine-wechat
+deepin.com.qq.im
 deepin.com.qq.office
+deepin.com.qq.qqmusic
+deepin.com.thunderspeed
+deepin.com.wechat2
 deno
 desmume
 device-mapper
