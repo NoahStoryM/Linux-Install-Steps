@@ -24,6 +24,7 @@ autoconf
 autojump
 automake
 avahi
+azuredatastudio-bin
 b43-fwcutter
 baidunetdisk-bin
 baidupcs-go
