@@ -72,8 +72,8 @@ darktable
 dbus-x11
 deepin-wine
 deepin-wine-qq
-deepin-wine-tim
 deepin-wine-wechat
+deepin.com.qq.office
 deno
 desmume
 device-mapper
