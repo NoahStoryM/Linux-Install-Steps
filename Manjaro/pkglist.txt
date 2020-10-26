@@ -283,6 +283,7 @@ light-locker
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
+lighttpd
 linux-firmware
 linux-latest
 linux-latest-acpi_call
@@ -299,6 +300,7 @@ linux-latest-zfs
 linux-steam-integration
 linux58
 linux58-acpi_call
+linux58-bbswitch
 linux58-broadcom-wl
 linux58-headers
 linux58-nvidia-450xx
@@ -392,7 +394,9 @@ networkmanager-openvpn
 networkmanager-pptp
 networkmanager-vpnc
 nfs-utils
+nginx
 nilfs-utils
+nmap
 nodejs
 noto-fonts
 noto-fonts-cjk
@@ -651,6 +655,7 @@ vulkan-radeon
 vulkan-tools
 vulkan-trace
 vulkan-validation-layers
+vulscan
 wabt
 wallpapers-2018
 wallpapers-juhraya
