@@ -381,6 +381,7 @@ mupen64plus
 mutter
 mycli
 mysql
+mysql-workbench
 nano
 nasm
 neofetch
