@@ -56,6 +56,7 @@ clinfo
 clisp
 clojure
 cmake
+composer
 convmv
 coreutils
 cpupower
