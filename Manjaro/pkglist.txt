@@ -198,6 +198,7 @@ higan
 hmcl
 hplip
 htop
+httpie
 idris
 idris2
 ifuse
