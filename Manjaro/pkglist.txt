@@ -320,6 +320,7 @@ linuxqq
 lldb
 logrotate
 lsb-release
+luit
 lvm2
 m4
 make
@@ -370,6 +371,7 @@ mkvtoolnix-gui
 mlocate
 mobile-broadband-provider-info
 modemmanager
+mono
 mousepad
 mousetweaks
 mpc
@@ -414,6 +416,7 @@ nvidia-450xx-utils
 nvidia-cg-toolkit
 nvidia-prime
 obs-studio
+ocaml
 octave
 octopi
 onboard
@@ -480,6 +483,7 @@ python-numpy
 python-pandas
 python-pillow
 python-pip
+python-pydotplus
 python-pyglet
 python-pyinotify
 python-pymupdf
@@ -739,7 +743,6 @@ xkeycaps
 xorg-docs
 xorg-fonts-100dpi
 xorg-fonts-75dpi
-xorg-luit
 xorg-server
 xorg-server-devel
 xorg-server-xephyr
