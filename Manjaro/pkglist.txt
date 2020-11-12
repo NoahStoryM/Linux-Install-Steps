@@ -648,6 +648,7 @@ vbam-wx
 verilator
 vi
 viewnior
+vim-spell-en
 vino
 virtualbox
 virtualbox-sdk
@@ -675,9 +676,12 @@ wiiuse
 wine-wechat
 winetricks
 winetricks-zh
+wiznote
 woeusb-git
 wpa_supplicant
 wps-office
+wqy-bitmapfont
+wqy-microhei-lite
 wqy-zenhei
 xapp
 xcape
