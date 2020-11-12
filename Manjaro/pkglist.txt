@@ -56,6 +56,7 @@ clinfo
 clisp
 clojure
 cmake
+code
 composer
 convmv
 coreutils
@@ -675,7 +676,6 @@ vino
 virtualbox
 virtualbox-sdk
 virtualgl
-visual-studio-code-bin
 vivado
 vkd3d
 vlc
@@ -706,6 +706,7 @@ wps-office
 wqy-bitmapfont
 wqy-microhei-lite
 wqy-zenhei
+x11-ssh-askpass
 xapp
 xcape
 xchm
@@ -808,5 +809,6 @@ youtube-dl
 zoom
 zsh
 zsh-autosuggestions
+zsh-completions
 zsh-syntax-highlighting
 zsnes
