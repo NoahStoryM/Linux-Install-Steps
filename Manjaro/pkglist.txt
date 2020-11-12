@@ -96,6 +96,7 @@ dosbox
 dosemu
 dosfstools
 e2fsprogs
+ecb
 ecryptfs-utils
 efibootmgr
 eigen
@@ -105,6 +106,21 @@ electronic-wechat
 element-desktop
 element-web
 emacs
+emacs-apel
+emacs-evil
+emacs-go-mode-git
+emacs-haskell-mode
+emacs-llvm-mode-git
+emacs-lua-mode
+emacs-markdown-mode-git
+emacs-muse
+emacs-org-mode-git
+emacs-php-mode
+emacs-pkgbuild-mode-git
+emacs-python-mode
+emacs-undo-tree
+emacs-web-mode-git
+emacs-yaml-mode-git
 engrampa
 eog
 epiphany
@@ -558,6 +574,7 @@ scummvm
 scummvm-tools
 sddm
 sed
+semi
 shadow
 shadowsocks
 shadowsocks-libev
@@ -675,6 +692,7 @@ vulscan
 wabt
 wallpapers-2018
 wallpapers-juhraya
+wanderlust
 wget
 which
 wiiuse
