@@ -30,6 +30,7 @@ baidunetdisk-bin
 baidupcs-go
 baobab
 bash-completion
+bat
 bauh
 bilibili-live-helper-bin
 bilidan-git
@@ -407,6 +408,7 @@ mysql
 mysql-workbench
 nano
 nasm
+ncdu
 neofetch
 neovim
 net-tools
@@ -479,6 +481,7 @@ powerline-fonts
 powerline-vim
 powertop
 ppsspp
+privoxy
 procps-ng
 proxychains-ng
 psmisc
@@ -804,6 +807,7 @@ xorgproto-transfer
 yandex-browser-beta
 yaourt
 yay
+ydcv
 yelp
 youtube-dl
 zoom
