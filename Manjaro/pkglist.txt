@@ -457,6 +457,9 @@ playonlinux
 polipo
 poppler-data
 poppler-glib
+powerline
+powerline-fonts
+powerline-vim
 powertop
 ppsspp
 procps-ng
@@ -484,6 +487,8 @@ python-pandas
 python-pillow
 python-pip
 python-pydotplus
+python-pygit2
+python-pygithub
 python-pyglet
 python-pyinotify
 python-pymupdf
