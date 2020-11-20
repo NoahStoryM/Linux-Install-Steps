@@ -17,6 +17,7 @@ archcn-tools-meta
 archlinuxcn-keyring
 archlinuxcn-mirrorlist-git
 aria2
+aribb25
 aspell-en
 audacious
 audiofile
@@ -452,6 +453,9 @@ p7zip
 pacman
 pamac-gtk
 pamac-snap-plugin
+pari-elldata
+pari-galpol
+pari-seadata
 patch
 patchutils
 pavucontrol
