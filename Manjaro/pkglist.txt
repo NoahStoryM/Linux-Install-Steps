@@ -470,6 +470,7 @@ pidgin
 pkgconf
 pkgfile
 playonlinux
+pokemmo
 polipo
 poppler-data
 poppler-glib
