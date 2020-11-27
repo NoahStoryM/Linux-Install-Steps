@@ -503,7 +503,11 @@ python-pyqt5
 python-pyqtwebengine
 python-qrcode
 python-reportlab
+python-scikit-build
+python-scikit-image
+python-scikit-learn
 python-scipy
+python-skorch
 python-sympy
 python-xlib
 python-xlrd
