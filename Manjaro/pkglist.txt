@@ -80,6 +80,7 @@ deepin.com.qq.office
 deepin.com.qq.qqmusic
 deepin.com.thunderspeed
 deepin.com.wechat2
+dejagnu
 deno
 desmume
 device-mapper
@@ -91,6 +92,7 @@ dhcpcd
 dialog
 diffutils
 dkms
+dmg2img
 dmidecode
 dmraid
 dnsmasq
@@ -98,6 +100,8 @@ dolphin-emu
 dosbox
 dosemu
 dosfstools
+doxygen
+doxygen-docs
 e2fsprogs
 ecb
 ecryptfs-utils
@@ -123,6 +127,7 @@ epiphany
 evince
 exfat-utils
 exo
+expect
 f2fs-tools
 fakeroot
 fceux
@@ -206,6 +211,7 @@ gvim
 gzip
 haveged
 hexchat
+hexedit
 higan
 hmcl
 hplip
