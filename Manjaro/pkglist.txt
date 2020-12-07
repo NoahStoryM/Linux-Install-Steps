@@ -152,6 +152,7 @@ flatpak
 flex
 flite
 freealut
+freetds
 freetype2
 galculator-gtk2
 gambit-c
