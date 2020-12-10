@@ -609,6 +609,9 @@ systemd-fsck-silent
 systemd-sysvcompat
 tar
 tclap
+telegram-desktop
+telegram-qt
+telepathy-morse
 tensorflow
 terminator
 terminus-font
