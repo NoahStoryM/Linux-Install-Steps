@@ -253,9 +253,9 @@ lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
-lib32-nvidia-450xx-utils
+lib32-nvidia-455xx-utils
 lib32-nvidia-cg-toolkit
-lib32-opencl-nvidia-450xx
+lib32-opencl-nvidia-455xx
 lib32-virtualgl
 lib32-vkd3d
 lib32-vulkan-icd-loader
@@ -314,7 +314,7 @@ linux-latest-acpi_call
 linux-latest-bbswitch
 linux-latest-broadcom-wl
 linux-latest-headers
-linux-latest-nvidia-450xx
+linux-latest-nvidia-455xx
 linux-latest-r8168
 linux-latest-rtl8723bu
 linux-latest-tp_smapi
@@ -323,7 +323,6 @@ linux-latest-virtualbox-guest-modules
 linux-latest-virtualbox-host-modules
 linux-latest-zfs
 linux-steam-integration
-linux59-bbswitch
 linuxqq
 lldb
 logrotate
@@ -421,7 +420,7 @@ nss-mdns
 ntfs-3g
 ntp
 numlockx
-nvidia-450xx-utils
+nvidia-455xx-utils
 nvidia-cg-toolkit
 nvidia-prime
 obs-studio
@@ -432,7 +431,7 @@ onboard
 openbox
 opencl-headers
 opencl-mesa
-opencl-nvidia-450xx
+opencl-nvidia-455xx
 opencv
 opencv-docs
 opendesktop-fonts
