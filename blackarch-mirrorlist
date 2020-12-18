@@ -1,0 +1,8 @@
+##
+## Arch Linux blackarch repository mirrorlist
+## Generated on 2021-01-01
+##
+
+Server = https://mirrors.ustc.edu.cn/blackarch/$repo/os/$arch
+Server = https://mirrors.tuna.tsinghua.edu.cn/blackarch/$repo/os/$arch
+Server = http://blackarch.org/blackarch/$repo/os/$arch

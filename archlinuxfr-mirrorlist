@@ -1,0 +1,6 @@
+##
+## Arch Linux FR community repository mirrorlist
+## Generated on 2020-01-01
+##
+
+Server = https://repo.archlinux.fr/$arch 
