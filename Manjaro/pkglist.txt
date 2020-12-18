@@ -598,6 +598,7 @@ splix
 ssf2fcitx-git
 steam-manjaro
 steam-native
+steamcmd
 subversion
 sudo
 sushi
