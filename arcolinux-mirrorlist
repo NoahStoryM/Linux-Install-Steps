@@ -1,0 +1,6 @@
+##
+## Arch Linux arcolinux repository mirrorlist
+## Generated on 2021-01-01
+##
+
+Server = https://arcolinux.github.io/$repo/$arch
