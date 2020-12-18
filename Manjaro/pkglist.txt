@@ -37,6 +37,7 @@ bilibili-live-helper-bin
 bilidan-git
 binutils
 bison
+blackarch-keyring
 blueman
 bluez-utils
 bookworm
