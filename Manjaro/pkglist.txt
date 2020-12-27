@@ -176,6 +176,7 @@ barq
 base64dump
 basedomainname
 bash-completion
+bashbrew
 bashfuscator
 bat
 batctl
@@ -427,6 +428,7 @@ composer
 configpush
 conpot
 conscan
+container-diff
 convmv
 cookie-cadger
 coreutils
@@ -568,6 +570,7 @@ disitool
 dislocker
 dissector
 distorm
+dive
 dizzy
 dkmc
 dkms
@@ -608,6 +611,9 @@ dnsvalidator
 dnswalk
 dnsx
 docem
+docker
+docker-compose
+docker-machine
 dockerscan
 dolphin-emu
 domain-analyzer
@@ -679,6 +685,7 @@ ecb
 ecfs
 ecryptfs-utils
 edb
+edrawmax
 efibootmgr
 eggshell
 eigen
@@ -1380,6 +1387,7 @@ lans
 latd
 laudanum
 lazagne
+lazydocker
 lazydroid
 lbd
 lbmap
