@@ -1019,7 +1019,6 @@ grepforrfi
 grokevt
 grr
 grub
-grub-customizer
 grub-theme-manjaro
 grype
 gsd
@@ -1426,9 +1425,9 @@ lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
 lib32-mesa-demos
 lib32-mesa-vdpau
-lib32-nvidia-455xx-utils
 lib32-nvidia-cg-toolkit
-lib32-opencl-nvidia-455xx
+lib32-nvidia-utils
+lib32-opencl-nvidia
 lib32-virtualgl
 lib32-vkd3d
 lib32-vulkan-icd-loader
@@ -1507,7 +1506,7 @@ linux-latest-acpi_call
 linux-latest-bbswitch
 linux-latest-broadcom-wl
 linux-latest-headers
-linux-latest-nvidia-455xx
+linux-latest-nvidia
 linux-latest-r8168
 linux-latest-rtl8723bu
 linux-latest-tp_smapi
@@ -1874,9 +1873,9 @@ nuclei
 nullinux
 nullscan
 numlockx
-nvidia-455xx-utils
 nvidia-cg-toolkit
 nvidia-prime
+nvidia-utils
 nxcrypt
 o-saft
 oat
@@ -1913,7 +1912,7 @@ open-iscsi
 openbox
 opencl-headers
 opencl-mesa
-opencl-nvidia-455xx
+opencl-nvidia
 opencv
 opencv-docs
 opendesktop-fonts
@@ -2252,6 +2251,7 @@ python-search-engine-parser
 python-shodan
 python-skorch
 python-sympy
+python-tensorflow
 python-trackerjacker
 python-uncompyle6
 python-utidylib
