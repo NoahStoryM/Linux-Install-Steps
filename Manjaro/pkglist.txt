@@ -1346,6 +1346,7 @@ kalibrate-rtl
 kamerka
 katago-opencl
 katana
+katrain
 katsnoop
 kautilya
 kcptun
@@ -2218,6 +2219,7 @@ python-grip
 python-ivre
 python-jsbeautifier
 python-keylogger
+python-kivy
 python-language-server
 python-manimlib
 python-markdown
