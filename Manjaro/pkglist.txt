@@ -2242,7 +2242,7 @@ python-pyglet
 python-pyinotify
 python-pymupdf
 python-pyqt5
-python-pyqtwebengine
+python-pyqt5-webengine
 python-pyx
 python-qrcode
 python-reportlab
@@ -2252,6 +2252,7 @@ python-scikit-learn
 python-scipy
 python-search-engine-parser
 python-shodan
+python-sip4
 python-skorch
 python-sympy
 python-tensorflow
@@ -2577,6 +2578,7 @@ simplify
 simplyemail
 simtrace2
 sinfp
+sip4
 siparmyknife
 sipbrute
 sipcrack
@@ -3066,7 +3068,6 @@ virtualgl
 virustotal
 visql
 visualize-logs
-vivado
 vivisect
 vkd3d
 vlan-hopping
