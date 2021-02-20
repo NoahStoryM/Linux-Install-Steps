@@ -2323,12 +2323,12 @@ quark-engine
 quickrecon
 quicksand-lite
 qv2ray
+r2cutter
 rabid
 raccoon
 racket
 radamsa
 radare2
-radare2-cutter
 radare2-keystone
 radare2-unicorn
 radiography
@@ -2719,6 +2719,7 @@ sqlsus
 ssdeep
 ssdp-scanner
 ssf2fcitx-git
+ssfconv
 ssh-audit
 ssh-honeypot
 ssh-mitm
