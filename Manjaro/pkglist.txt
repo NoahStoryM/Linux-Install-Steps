@@ -522,6 +522,11 @@ debinject
 deblaze
 decodify
 deen
+deepin-wine-qq
+deepin-wine-qqmusic
+deepin-wine-thunderspeed
+deepin-wine-tim
+deepin-wine-wechat
 dejagnu
 delldrac
 delorean
@@ -572,6 +577,8 @@ dissector
 distorm
 dive
 dizzy
+djview
+djvu2pdf
 dkmc
 dkms
 dmde
@@ -766,6 +773,7 @@ exploitpack
 expose
 exrex
 extended-ssrf-search
+extra-cmake-modules
 extracthosts
 extractusnjrnl
 eyeballer
@@ -2012,6 +2020,7 @@ pcredz
 pcsx2
 pdblaster
 pdf-parser
+pdf2djvu
 pdfbook-analyzer
 pdfcrack
 pdfgrab
@@ -2178,7 +2187,6 @@ pwnat
 pwncat
 pwndbg
 pwndrop
-pwned
 pwned-search
 pwnedornot
 pwnloris
@@ -2383,7 +2391,6 @@ replayproxy
 resourcehacker
 responder
 retdec
-retire
 retroarch
 retroarch-assets-ozone
 retroarch-assets-xmb
@@ -2974,7 +2981,6 @@ uberfile
 ubiquiti-probing
 ubitack
 udftools
-udis86
 udiskie
 udisks2
 udork
