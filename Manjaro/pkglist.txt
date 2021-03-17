@@ -29,6 +29,9 @@ afl
 afpfs-ng
 agafi
 against
+agda
+agda-categories
+agda-stdlib
 aggroargs
 aiengine
 aimage
@@ -431,6 +434,9 @@ conscan
 container-diff
 convmv
 cookie-cadger
+coq
+coq-doc
+coqide
 coreutils
 corkscrew
 corscanner
