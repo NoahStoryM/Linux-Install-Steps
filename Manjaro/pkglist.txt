@@ -1629,6 +1629,7 @@ matcha-gtk-theme
 matroschka
 matterbridge
 mausezahn
+maven
 mbenum
 mboxgrep
 mcpelauncher-linux-git
