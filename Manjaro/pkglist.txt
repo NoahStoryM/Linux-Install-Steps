@@ -33,6 +33,7 @@ audiofile
 autoconf
 autojump
 automake
+autossh
 avahi
 azuredatastudio-bin
 b43-fwcutter
@@ -44,6 +45,7 @@ bashbrew
 bat
 batctl
 bauh
+benchmark
 bettercap
 bilibili-live-helper-bin
 bilidan-git
@@ -82,8 +84,10 @@ clojure
 cmake
 code
 composer
+conn
 container-diff
 convmv
+cookiejar
 coq
 coq-doc
 coqide
@@ -91,6 +95,7 @@ coreutils
 corkscrew
 cowpatty
 cppcheck
+cppunit
 cpupower
 crda
 criterion
@@ -105,11 +110,17 @@ darkstat
 darktable
 dbus-x11
 ddrescue
+deepin-fonts-wine
+deepin-wine-binfmt
+deepin-wine-helper
 deepin-wine-qq
 deepin-wine-qqmusic
 deepin-wine-thunderspeed
 deepin-wine-tim
+deepin-wine-uninstaller
 deepin-wine-wechat
+deepin-wine32
+deepin-wine32-tools
 dejagnu
 deno
 desmume
@@ -254,6 +265,8 @@ gst-plugins-ugly
 gtk3
 gtkhash-thunar
 gufw
+guile-bytestructures
+guile2.0
 gulp
 gvfs
 gvfs-afc
@@ -265,14 +278,19 @@ gvfs-nfs
 gvfs-smb
 gvim
 gzip
+hachoir-parser
 hackrf
 hashcat
 hashcat-utils
 hashdeep
+haskell-hxt
+haskell-system-fileio
+haskell-void
 haveged
 hcxdumptool
 hcxkeys
 hcxtools
+help2man
 hexchat
 hexedit
 hexyl
@@ -287,9 +305,11 @@ httptunnel
 httrack
 hydra
 i2pd
+ibus
 idris
 idris2
 ifuse
+imake
 impacket
 imwheel
 inetutils
@@ -320,6 +340,7 @@ jre8-openjdk-headless
 jupyter
 jupyter-notebook
 jupyterlab
+jython
 katago-opencl
 katrain
 kcptun
@@ -329,6 +350,8 @@ lazydocker
 less
 lib32-amdvlk
 lib32-flex
+lib32-libaio
+lib32-libidn
 lib32-libva-intel-driver
 lib32-libva-mesa-driver
 lib32-libva-vdpau-driver
@@ -407,6 +430,7 @@ linux-latest-virtualbox-host-modules
 linux-latest-zfs
 linux-steam-integration
 linuxqq
+lld
 lldb
 llvm
 logrotate
@@ -459,6 +483,7 @@ metasploit
 mfoc
 mgba-qt
 mgba-sdl
+mhash
 mhwd
 mhwd-chroot
 mhwd-db
@@ -861,7 +886,7 @@ virtualgl
 vkd3d
 vlc
 vmware-workstation
-volatility
+volatility3
 vulkan-extra-layers
 vulkan-headers
 vulkan-html-docs
@@ -878,6 +903,7 @@ wanderlust
 wavemon
 wget
 which
+whois
 wifite
 wiiuse
 wine-wechat
@@ -993,6 +1019,7 @@ xortool
 yandex-browser-beta
 yaourt
 yara
+yasm
 yay
 ydcv
 yelp
