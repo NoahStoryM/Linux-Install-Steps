@@ -615,6 +615,7 @@ powertop
 ppsspp
 privoxy
 procps-ng
+protondb-tags
 proxychains-ng
 proxytunnel
 psmisc
