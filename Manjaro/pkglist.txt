@@ -433,6 +433,7 @@ linuxqq
 lld
 lldb
 llvm
+llvm-ocaml
 logrotate
 lorcon
 lsb-release
@@ -606,6 +607,7 @@ pkgfile
 playonlinux
 pokemmo
 polipo
+polly
 poppler-data
 poppler-glib
 powerline
@@ -892,6 +894,7 @@ vulkan-extra-layers
 vulkan-headers
 vulkan-html-docs
 vulkan-intel
+vulkan-mesa-layers
 vulkan-radeon
 vulkan-tools
 vulkan-trace
