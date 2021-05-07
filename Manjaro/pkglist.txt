@@ -305,6 +305,7 @@ httptunnel
 httrack
 hydra
 i2pd
+iaito
 ibus
 idris
 idris2
@@ -705,7 +706,6 @@ qt5-websockets
 qt5-webview
 qtermwidget
 qv2ray
-r2cutter
 racket
 radamsa
 radare2
@@ -891,13 +891,14 @@ vlc
 vmware-workstation
 volatility3
 vulkan-extra-layers
+vulkan-extra-tools
 vulkan-headers
 vulkan-html-docs
 vulkan-intel
 vulkan-mesa-layers
 vulkan-radeon
+vulkan-swrast
 vulkan-tools
-vulkan-trace
 vulkan-validation-layers
 vulscan
 wabt
