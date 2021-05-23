@@ -727,7 +727,6 @@ sabaki
 sage-notebook-exporter
 sagemath
 sagemath-doc
-sagemath-jupyter
 sagetex
 samba
 sbcl
