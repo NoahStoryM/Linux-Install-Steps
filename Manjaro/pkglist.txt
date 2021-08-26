@@ -151,6 +151,7 @@ dosemu
 dosfstools
 doxygen
 doxygen-docs
+dpkg
 dscanner
 dsniff
 e2fsprogs
@@ -371,6 +372,7 @@ libclc
 libdvdcss
 libgsf
 libopenraw
+libpamac-snap-plugin
 libpst
 libreoffice-still
 libretro-beetle-pce
@@ -490,7 +492,7 @@ mhwd
 mhwd-chroot
 mhwd-db
 mhwd-tui
-minecraft
+minecraft-launcher
 minecraft-server
 mit-scheme
 mitmproxy
@@ -583,7 +585,6 @@ packer
 packeth
 pacman
 pamac-gtk
-pamac-snap-plugin
 pari-elldata
 pari-galpol
 pari-seadata
