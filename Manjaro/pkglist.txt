@@ -329,6 +329,7 @@ iputils
 ipw2100-fw
 ipw2200-fw
 ipython
+irrlicht
 iverilog
 jad
 jadx
@@ -617,6 +618,7 @@ powerline-fonts
 powerline-vim
 powertop
 ppsspp
+premake
 privoxy
 procps-ng
 protondb-tags
@@ -1028,6 +1030,7 @@ yasm
 yay
 ydcv
 yelp
+ygopro
 youtube-dl
 zaproxy
 zmap
