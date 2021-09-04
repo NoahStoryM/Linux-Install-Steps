@@ -913,7 +913,7 @@ which
 whois
 wifite
 wiiuse
-wine-wechat
+wine-wechat-setup
 winetricks
 winetricks-zh
 wireshark-cli
