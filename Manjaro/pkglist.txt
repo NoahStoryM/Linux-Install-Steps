@@ -230,6 +230,7 @@ gdb
 gedit
 gens-gs
 genymotion
+gephi
 gerbil-scheme-git
 gettext
 ghc
