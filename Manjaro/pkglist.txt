@@ -180,6 +180,7 @@ emacs-undo-tree
 engrampa
 eog
 epiphany
+espeak
 etherape
 ettercap
 evilginx
@@ -847,6 +848,7 @@ tor
 torsocks
 totem
 traceroute
+translate-shell
 transmission-cli
 transmission-qt
 transset-df
