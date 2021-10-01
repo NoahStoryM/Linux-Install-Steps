@@ -636,6 +636,7 @@ pulseaudio-zeroconf
 pv
 pwndbg
 pyenv
+pyinstaller
 pypy
 pyrit
 pyside2
