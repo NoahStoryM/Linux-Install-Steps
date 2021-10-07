@@ -37,7 +37,7 @@ autossh
 avahi
 azuredatastudio-bin
 b43-fwcutter
-baidunetdisk-bin
+baidunetdisk-electron
 baidupcs-go
 baobab
 bash-completion
