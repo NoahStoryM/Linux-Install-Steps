@@ -85,6 +85,7 @@ clisp
 clojure
 cmake
 code
+com.tencent.meeting.deepin
 composer
 conn
 container-diff
