@@ -136,6 +136,8 @@ dhclient
 dhcpcd
 dialog
 diffutils
+discord
+discord-canary
 distorm
 dive
 djview
