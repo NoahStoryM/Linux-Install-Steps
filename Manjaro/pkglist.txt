@@ -886,6 +886,7 @@ udftools
 udiskie
 udisks2
 udp2raw-tunnel
+uex
 unace
 unhide
 upx
