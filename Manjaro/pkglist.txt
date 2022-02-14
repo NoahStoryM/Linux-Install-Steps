@@ -15,7 +15,6 @@ android-apktool
 android-sdk
 android-sdk-build-tools
 android-udev
-annie
 apache
 apparmor
 arc-gtk-theme
@@ -146,6 +145,7 @@ dkms
 dmg2img
 dmidecode
 dmraid
+dnf
 dnsmasq
 dnstracer
 docker
@@ -450,6 +450,7 @@ lorcon
 lsb-release
 ltrace
 luit
+lux-dl
 lvm2
 lynis
 m4
