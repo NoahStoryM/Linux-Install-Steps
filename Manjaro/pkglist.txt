@@ -648,6 +648,7 @@ pyside2
 python-beautifulsoup4
 python-capstone
 python-cffi
+python-epc
 python-feedparser
 python-glfw
 python-grip
@@ -686,6 +687,7 @@ python-xlib
 python-xlrd
 python-xlsxwriter
 python-xlwt
+python2-epc
 python2-pip
 python2-yara
 qemu
