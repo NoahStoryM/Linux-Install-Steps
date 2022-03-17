@@ -629,6 +629,7 @@ ppsspp
 premake
 privoxy
 procps-ng
+proton
 protondb-tags
 proxychains-ng
 proxytunnel
