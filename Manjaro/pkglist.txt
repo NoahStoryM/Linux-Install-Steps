@@ -934,7 +934,7 @@ winetricks-zh
 wireshark-cli
 wireshark-qt
 wiznote
-woeusb-git
+woeusb
 wpa_supplicant
 wps-office
 wpscan
