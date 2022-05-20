@@ -99,7 +99,6 @@ cowpatty
 cppcheck
 cppunit
 cpupower
-crda
 criterion
 cronie
 cryptsetup
@@ -308,6 +307,7 @@ hmcl
 hping
 hplip
 htop
+httpdirfs
 httpie
 httping
 httptunnel
@@ -348,7 +348,6 @@ jhead
 john
 jre8-openjdk
 jre8-openjdk-headless
-jupyter
 jupyter-notebook
 jupyterlab
 jython
@@ -629,7 +628,6 @@ ppsspp
 premake
 privoxy
 procps-ng
-proton
 protondb-tags
 proxychains-ng
 proxytunnel
@@ -691,8 +689,8 @@ python-xlwt
 python2-epc
 python2-pip
 python2-yara
-qemu
-qemu-arch-extra
+qemu-desktop
+qemu-emulators-full
 qpdfview
 qt5-3d
 qt5-charts
@@ -872,6 +870,9 @@ ttf-droid
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
+ttf-ms-win10
+ttf-ms-win10-zh_cn
+ttf-ms-win10-zh_tw
 tumbler
 typescript
 typora
