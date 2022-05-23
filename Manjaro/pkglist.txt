@@ -569,6 +569,7 @@ octave
 octopi
 onboard
 onionshare
+onlyoffice-desktopeditors
 open-iscsi
 openbox
 opencl-headers
