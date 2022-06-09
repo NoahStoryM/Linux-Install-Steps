@@ -571,6 +571,7 @@ onboard
 onionshare
 onlyoffice-desktopeditors
 open-iscsi
+open-vm-tools
 openbox
 opencl-headers
 opencl-mesa
@@ -663,6 +664,7 @@ python-numpy
 python-olefile
 python-pandas
 python-pillow
+python-pillowfight
 python-pip
 python-pydotplus
 python-pygit2
@@ -672,6 +674,8 @@ python-pyinotify
 python-pymupdf
 python-pyqt5
 python-pyqt5-webengine
+python-pyqt6
+python-pyqt6-3d
 python-pyx
 python-qrcode
 python-reportlab
@@ -720,7 +724,7 @@ qt5-webglplugin
 qt5-websockets
 qt5-webview
 qtermwidget
-qv2ray
+qv2ray-dev-git
 r-lintr
 racket
 radamsa
