@@ -777,6 +777,7 @@ slack-web-jak
 sleuthkit
 slowhttptest
 smali
+smartmontools
 smlnj
 smplayer
 snapd
