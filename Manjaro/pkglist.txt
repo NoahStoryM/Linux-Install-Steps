@@ -76,6 +76,7 @@ cheese
 chez-scheme
 chibi-scheme
 chicken
+chinese-calendar
 chntpw
 chromium
 clash
@@ -348,7 +349,6 @@ jhead
 john
 jre8-openjdk
 jre8-openjdk-headless
-jupyter-notebook
 jupyterlab
 jython
 katago-opencl
@@ -868,17 +868,19 @@ transmission-qt
 transset-df
 trash-cli
 tree
-truecrypt
 ts-node
 tsmuxer-git
 ttf-bitstream-vera
 ttf-droid
+ttf-hack
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
+ttf-monaco
 ttf-ms-win10
 ttf-ms-win10-zh_cn
 ttf-ms-win10-zh_tw
+ttf-ubuntu-font-family
 tumbler
 typescript
 typora
