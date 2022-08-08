@@ -1055,6 +1055,7 @@ yay
 ydcv
 yelp
 ygopro
+you-get
 youtube-dl
 zaproxy
 zmap
