@@ -169,6 +169,7 @@ eigen
 electron
 electron-ssr
 electronic-wechat
+electrum
 element-desktop
 element-web
 elfkickers
@@ -650,12 +651,14 @@ pypy
 pyrit
 pyside2
 python-beautifulsoup4
+python-btchip
 python-capstone
 python-cffi
 python-epc
 python-feedparser
 python-glfw
 python-grip
+python-hidapi
 python-jsbeautifier
 python-kivy
 python-language-server
@@ -682,6 +685,7 @@ python-pyqt6-3d
 python-pyx
 python-qrcode
 python-reportlab
+python-rpyc
 python-scikit-build
 python-scikit-image
 python-scikit-learn
