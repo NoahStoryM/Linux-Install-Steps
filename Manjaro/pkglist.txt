@@ -51,6 +51,7 @@ bilidan-git
 binutils
 binwalk
 bison
+bitcoin-core
 blackarch-keyring
 bless
 blueman
