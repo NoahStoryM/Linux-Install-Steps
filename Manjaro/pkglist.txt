@@ -695,6 +695,7 @@ python-sip4
 python-skorch
 python-sympy
 python-tensorflow
+python-tokenizers
 python-xlib
 python-xlrd
 python-xlsxwriter
