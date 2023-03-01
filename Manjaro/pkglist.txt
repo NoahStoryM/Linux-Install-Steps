@@ -557,6 +557,7 @@ ngrep
 ngrok
 nikto
 nilfs-utils
+ninja
 nmap
 nodejs-lts-gallium
 noto-fonts
