@@ -1093,5 +1093,5 @@ zsh-syntax-highlighting
 zshdb
 zsnes
 zssh
-zuo-git
+zuo
 zzuf
