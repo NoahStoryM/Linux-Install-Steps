@@ -40,6 +40,7 @@ b43-fwcutter
 baidunetdisk-electron
 baidupcs-go
 baobab
+base-devel
 bash-completion
 bashbrew
 bat
