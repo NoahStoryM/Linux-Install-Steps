@@ -1,3 +1,4 @@
+7zip
 accountsservice
 acpi
 acpid
@@ -74,6 +75,7 @@ capstone
 catfish
 cawbird
 cgdb
+chatbox-bin
 checksec
 cheese
 chez-scheme
@@ -168,6 +170,7 @@ eigen
 electron
 electron-ssr
 electron11-bin
+electron22-bin
 electronic-wechat
 electrum
 element-desktop
@@ -594,7 +597,6 @@ orage
 orca
 os-prober
 p0f
-p7zip
 packer
 packeth
 pacman
