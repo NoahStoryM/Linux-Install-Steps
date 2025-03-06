@@ -577,6 +577,7 @@ onionshare
 onlyoffice-desktopeditors
 open-iscsi
 open-vm-tools
+openblas
 openbox
 opencl-clover-mesa
 opencl-headers
